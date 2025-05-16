@@ -82,4 +82,4 @@ MIT
 
 ---
 
-*Created by [Your Name](https://github.com/IanEvolution)*
+*Created by [Ian Evolution](https://github.com/IanEvolution)*
