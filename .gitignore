@@ -1,0 +1,4 @@
+node_modules/
+accessability/reports/
+*.log
+.env
